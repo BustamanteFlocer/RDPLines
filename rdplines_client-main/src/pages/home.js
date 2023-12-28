@@ -207,7 +207,7 @@ const Home = () => {
               Time Series Line Simplification Generator
             </h1>
             <p className="text-xl pr-5 pt-8">
-              The Ramer-Douglas-Peucker technique is used to visualize time
+              The Ramer-Douglas-Peucker algorithm is used to visualize time
               series files and eliminate data points from thousands to hundreds
               without losing the data's conclusions.
             </p>
